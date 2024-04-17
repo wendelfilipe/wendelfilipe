@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Wendel aqui! 👋
 
 - 🔭 Hoje estou trabalhando no meu projeto de carteira de investimentos, que uma demostração dele publicamente.
 - 🌱 Estou estudando .Net, C#, React.js, SQL, Java e Kotlin.
