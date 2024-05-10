@@ -5,7 +5,7 @@
 - 👯 Estou procurando oportunidade de estágio/junior, tenho um ano de experiencia como estagiario de desenvolvimento Back End, com .Net, SQL e tambem trabalhei com Vue.js e TypeScript.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-maciel-209a291b6/)
 
-- Web Api que estou criando com .Net e React.js, Usando Clean Architeture - TDD - DDD - https://my-finances-app.vercel.app/
+- Web Api que estou criando com .Net e React.js, Usando Clean Architeture - TDD - DDD - https://myfinancesapp.vercel.app
 
 <!--![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=wendelfilipe&show_icons=true&theme=dracula) -->
 
