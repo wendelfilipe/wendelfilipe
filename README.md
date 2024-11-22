@@ -1,6 +1,6 @@
 ### Olá, Wendel aqui! 👋
 
-- 🔭 Hoje estou como estagiário de desenvolvimento, .Net, C#, SQL, React.js, Next.js, TypeScript.
+- 🔭 Hoje estou como estagiário de desenvolvimento na Mereo, usando .Net, C#, SQL, React.js, Next.js, TypeScript.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-maciel-209a291b6/)
 
 - Web Api que estou criando com .Net e React.js, Usando Clean Architeture - TDD - DDD - https://myfinancesapp.vercel.app
