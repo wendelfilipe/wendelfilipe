@@ -1,7 +1,7 @@
 ### Olá, Wendel aqui! 👋
 
 - 🔭 Hoje estou como Analista de integração c# na Mercanet, usando .Net, C#, SQL.
-- Estudando para ser full stack com ReactJs e React Native - projeto pessoal https://github.com/wendelfilipe/FeelFit-Project.
+- Estudando para ser full stack com ReactJs e React Native - projeto pessoal https://github.com/wendelfilipe/FeelFit-App.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-maciel-209a291b6/)
 
 - Web Api que estou criando com .Net e React.js, Usando Clean Architeture - TDD - DDD - https://myfinancesapp.vercel.app
