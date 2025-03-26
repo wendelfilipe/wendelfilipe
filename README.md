@@ -1,4 +1,4 @@
-### Olá, Wendel aqui! 👋
+### Olá, Wendel aqui ! 👋
 
 - 🔭 Hoje estou como Analista de integração c# na Mercanet, usando .Net, C#, SQL.
 - Estudando para ser full stack com ReactJs e React Native - projeto pessoal https://github.com/wendelfilipe/FeelFit-App.
