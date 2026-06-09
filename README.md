@@ -1,6 +1,6 @@
 ### Olá, Wendel aqui ! 👋
 
-- 🔭 Hoje estou trabalhando no meu software, que é mobile e web para gerenciar investimentos, usando .Net, C#, MySQL, SQLite, Firebase e React.js, React Native.
+- 🔭 Hoje estou trabalhando no meu software, que é mobile e web para gerenciar investimentos, usando Node, MySQL, SQLite, Firebase e React.js, React Native.
 - Estudando para ser full stack com ReactJs e React Native - projeto pessoal https://github.com/wendelfilipe/FeelFit-App.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-maciel-209a291b6/)
 
